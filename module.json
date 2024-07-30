@@ -1,8 +1,8 @@
 
 {
-  "id": "directory-json-drop",
-  "name": "directory-json-drop",
-  "title": "Directory JSON Drop",
+  "id": "directory-json-drop-v12",
+  "name": "directory-json-drop-v12",
+  "title": "Directory JSON Drop for v12",
   "description": "Grid for managing macro hotbars of all users",
   "authors": [{"name":"Xaukael, modified by sphins"}],
   "version": "1.0.3",
